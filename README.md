@@ -1,1 +1,0 @@
-git remote add origin https://github.com/anirudh2843/React.git
